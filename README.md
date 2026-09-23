@@ -5,6 +5,10 @@ This project allows users to view multiple images one by one using a **Next** bu
 
 ---
 
+
+<img width="1920" height="1080" alt="Screenshot (231)" src="https://github.com/user-attachments/assets/636c3434-e0c3-4aa6-9f06-210be49d42ce" />
+
+
 ## 🚀 Live Project
 
 🔗 **Live Demo:**
@@ -17,7 +21,7 @@ This project allows users to view multiple images one by one using a **Next** bu
 ## 🎥 Video Explanation
 
 📺 **Project Explanation Video:**
-👉 [Watch the Explanation Video](#)
+👉 https://drive.google.com/file/d/18dLQEp0yg6UMSMK8uhp0Kzv_xaWD8r6t/view?usp=drive_link
 
 🎬 The video explains the project structure, JavaScript logic, image changing functionality, and how the slider works.
 
